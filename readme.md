@@ -70,15 +70,15 @@ project-directory/
 ├── .gitignore
 └── notebook.ipynb
 
-`LICENSE`: The license for the project.
-`README.md`: This file.
-`requirements.txt`: A list of required packages.
-`.gitignore`: Git ignore file to exclude specific files from being tracked.
-`notebook.ipynb`: Jupyter notebook containing the main analysis and code.
+-`LICENSE`: The license for the project.
+-`README.md`: This file.
+-`requirements.txt`: A list of required packages.
+-`.gitignore`: Git ignore file to exclude specific files from being tracked.
+-`notebook.ipynb`: Jupyter notebook containing the main analysis and code.
 
-License
+## License
 This project is licensed under the terms specified in the `LICENSE` file.
 
-Contributing
+## Contributing
 We welcome contributions to improve the project. Please feel free to submit pull requests or open issues with your suggestions and improvements.
 
